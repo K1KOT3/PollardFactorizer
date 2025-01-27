@@ -1,6 +1,6 @@
 # Pollard Factorizer
 
-Este proyecto implementa el algoritmo rho de Pollard para la factorización de números grandes, una técnica clave en criptografía y ciberseguridad. También genera una gráfica que muestra cómo varía el tiempo de ejecución del algoritmo según el tamaño del número.
+Este proyecto implementa el algoritmo rho de Pollard para la factorización de números grandes, una técnica usada para romper algoritmos en criptografía. También genera una gráfica que muestra cómo varía el tiempo de ejecución del algoritmo según el tamaño del número.
 
 ## Descripción del Proyecto
 
